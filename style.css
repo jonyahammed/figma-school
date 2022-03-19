@@ -1,7 +1,12 @@
 .navbar-brand{
   height: 50px;
-   
+  
 }
+.container-fluid{
+  background-color: rgb(148, 135, 135);
+  border-radius: 10px;
+}
+
 .container{
   margin: 20px 0px;
 }
@@ -38,7 +43,7 @@ button{
 
 }
 #book{
-  margin-top: 40px;
+  margin-top: 70px;
 }
 
   
@@ -92,7 +97,7 @@ button{
   text-align: center;
   color: rgb(16, 235, 16);
   font-weight: 800;
-  margin-top: 50px;
+  margin-top: 70px;
 }
 .man{
   height: 200px;
