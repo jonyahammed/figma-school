@@ -1,0 +1,118 @@
+.navbar-brand{
+  height: 50px;
+   
+}
+.container{
+  margin: 20px 0px;
+}
+.img-size{
+  height: 100%;
+  width: 100%;
+}
+.carousel{
+  height: 400px;
+}
+.head-color{
+  color: blue;
+}
+.red-color{
+  color: red;
+}
+button{
+  background-image: linear-gradient(90deg, rgb(0, 195, 255), rgb(102, 130, 141));
+  border: none;
+  padding: 8px 20px;
+  border-radius: 12px;
+}
+.carousel{
+  background-color: rgb(175, 240, 218);
+  border-radius: 20px;
+}
+.images-size{
+  
+  margin: 10px;
+  height: 120px;
+  width: 150px;
+  
+  
+
+}
+#book{
+  margin-top: 40px;
+}
+
+  
+
+.box-color{
+  box-shadow:20px 20px 40px gray;
+  border-radius: 10px;
+  margin-right: 120px;
+  padding: 10px;
+  
+  
+}
+.topic{
+  color: blue;
+  text-align: center;
+}
+.center-alaign{
+  align-items: center;
+}
+.col{
+  box-shadow: 10px 10px 30px rgb(112, 107, 107);
+  border-radius: 10px;
+  
+  
+}
+.buy-course{
+  border: none;
+  background-color: aqua;
+  border-radius: 8px;
+  padding: 8px 12px;
+}
+.card-title{
+  color: cornflowerblue;
+
+}
+
+
+.size2{
+  height: 25px;
+  padding-right: 10px;
+}
+.tarikh{
+  padding-top: 20px;
+}
+.card-footer{
+  border: none;
+  background-color: white;
+}
+.online{
+  background-color: black;
+  text-align: center;
+  color: rgb(16, 235, 16);
+  font-weight: 800;
+  margin-top: 50px;
+}
+.man{
+  height: 200px;
+  margin-right: 40px;
+}
+#others{
+  height: 300px;
+}
+.testmonial{
+  margin-top: 100px;
+  text-align: center;
+  color: chartreuse;
+  background-color: rgb(4, 2, 19);
+}
+.linkdin{
+  background-color: rgb(15, 12, 41);
+  color: white;
+  border-radius: 20px;
+  padding: 20px;
+}
+footer{
+  text-align: center;
+}
